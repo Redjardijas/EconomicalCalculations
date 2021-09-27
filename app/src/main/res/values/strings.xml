@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calc2</string>
+    <string-array name="animals">
+        <item>офс.65</item>
+        <item>офс.70</item>
+        <item>офс.80</item>
+        <item>офс.90</item>
+    </string-array>
+</resources>
